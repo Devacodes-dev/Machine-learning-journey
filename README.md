@@ -27,9 +27,3 @@ modeling, and performance evaluation.
 ### Skills Demonstrated:
 Python, Pandas, Scikit-Learn, Matplotlib, Regression Modeling, EDA
 
-# Astronomical Data Exploration (EDA)
-A data analysis project focused on exploring astronomical observations  
-using Python. Highlights include data cleaning, pattern detection,  
-visualizations, and insights on celestial object distributions.
-### Skills Demonstrated:
-Python, Pandas, Visualization, EDA, Scientific Data Analysis
